@@ -1,0 +1,41 @@
+{
+	"build_systems": [
+		{
+			"auto_close": false,
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"focus": true,
+			"name": "Terminal",
+			"post_window_hooks":
+			[
+				[
+					"carry_file_to_pane",
+					{
+						"direction": "right",
+					}
+				]
+			],
+			
+			"selector": "source.python",			
+			"target": "terminus_open",
+			"timeit": true,
+			"title": "terminal",
+			"variants":
+			[
+				{
+					"name": "Go",
+					"shell_cmd": "/usr/local/go/bin/go run ${file}"
+					// "shell_cmd": "go run .",
+				}
+			],
+
+			"working_dir": "$file_path",
+		},	
+	],
+
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}

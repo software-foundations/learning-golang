@@ -1,0 +1,2002 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"set_trace"
+			],
+			[
+				"build",
+				"build_label_file"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"si",
+				"size_hint"
+			],
+			[
+				"butt",
+				"button_download"
+			],
+			[
+				"buil",
+				"build_text_input"
+			],
+			[
+				"T",
+				"TextInput"
+			],
+			[
+				"set",
+				"set_trace"
+			],
+			[
+				"PA",
+				"PATH_MAIN"
+			],
+			[
+				"Ap",
+				"Application"
+			],
+			[
+				"on_",
+				"on_press"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"vide",
+				"video_absolute_path"
+			],
+			[
+				"video",
+				"video_name"
+			],
+			[
+				"lis",
+				"lista_videos.csv"
+			],
+			[
+				"cs",
+				"csv_file_name="
+			],
+			[
+				"_vide",
+				"_video_absolute_path"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"re",
+				"relative_path"
+			],
+			[
+				"vi",
+				"video_absolute_path"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"vp",
+				"video_path_mp4"
+			],
+			[
+				"path",
+				"video_path"
+			],
+			[
+				"vid",
+				"video_name"
+			],
+			[
+				"PATH",
+				"PATH_MAIN"
+			],
+			[
+				"ap",
+				"audio_path"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"C",
+				"ConverterMp3Strategy"
+			],
+			[
+				"_cvtr",
+				"_converter"
+			],
+			[
+				"CS",
+				"ConverterMp3Strategy"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"Conv",
+				"ConverterMp3LowQuality"
+			],
+			[
+				"quali",
+				"mp3_quality"
+			],
+			[
+				"Conver",
+				"ConverterMp3HighQuality"
+			],
+			[
+				"conv",
+				"convert_mp3"
+			],
+			[
+				"_c",
+				"_convert_mp3"
+			],
+			[
+				"_",
+				"_convert_mp3"
+			],
+			[
+				"conver",
+				"convert_mp3"
+			],
+			[
+				"abs",
+				"abstractmethod"
+			],
+			[
+				"Vide",
+				"VideoFileClip"
+			],
+			[
+				"dum",
+				"dumps"
+			],
+			[
+				"she",
+				"shell_script"
+			],
+			[
+				"Sertanejo",
+				"Sertanejo Pop/"
+			],
+			[
+				"Sert",
+				"Sertanejo Pop/"
+			],
+			[
+				"ve",
+				"venv-youtube-download/"
+			],
+			[
+				"path_",
+				"PATH_MAIN"
+			],
+			[
+				"dO",
+				"download"
+			],
+			[
+				"csf",
+				"csv_file_name"
+			],
+			[
+				"name",
+				"name_folder"
+			],
+			[
+				"file",
+				"file_name_adjusted"
+			],
+			[
+				"no",
+				"nome_video"
+			],
+			[
+				"std",
+				"stdio.h"
+			],
+			[
+				"result_",
+				"result_float"
+			],
+			[
+				"in",
+				"integer_2"
+			],
+			[
+				"ic",
+				"intcompare"
+			],
+			[
+				"al",
+				"algorithms/"
+			],
+			[
+				"sour",
+				"source.python"
+			],
+			[
+				"__class",
+				"__class__.__name__"
+			],
+			[
+				"Remo",
+				"RemoteControl"
+			],
+			[
+				"De",
+				"Device"
+			],
+			[
+				"Devi",
+				"Device"
+			],
+			[
+				"myp",
+				"mypy"
+			],
+			[
+				"my",
+				"mypy/"
+			],
+			[
+				"Do",
+				"Documents/"
+			],
+			[
+				"Re",
+				"ReverseIterator"
+			],
+			[
+				"My",
+				"MyIterator"
+			],
+			[
+				"myL",
+				"MyList"
+			],
+			[
+				"MI",
+				"MyIterable"
+			],
+			[
+				"I",
+				"Iterable"
+			],
+			[
+				"py",
+				"python"
+			],
+			[
+				"Ite",
+				"Iterator"
+			],
+			[
+				"han",
+				"handle"
+			],
+			[
+				"hande",
+				"handler\tfunction"
+			],
+			[
+				"nex",
+				"next_handler\tparam"
+			],
+			[
+				"hand",
+				"handler_unsolved\tfunction"
+			],
+			[
+				"pre",
+				"press_prev"
+			],
+			[
+				"press",
+				"press_prev"
+			],
+			[
+				"a",
+				"approved"
+			],
+			[
+				"app",
+				"approve"
+			],
+			[
+				"Pay",
+				"PaymentPènding"
+			],
+			[
+				"O",
+				"Order"
+			],
+			[
+				"P",
+				"PaymentReject\t16★ ⟠"
+			],
+			[
+				"Paym",
+				"PaymentPènding"
+			],
+			[
+				"Payme",
+				"PaymentReject"
+			],
+			[
+				"Order",
+				"OrderState"
+			],
+			[
+				"hook_b",
+				"hook_before_add_ingredients"
+			],
+			[
+				"Con",
+				"ConcreteClass2"
+			],
+			[
+				"operatio",
+				"operation2"
+			],
+			[
+				"A",
+				"Abstract"
+			],
+			[
+				"opera",
+				"operation2"
+			],
+			[
+				"sub",
+				"subclasses"
+			],
+			[
+				"bed",
+				"bedroom_light"
+			],
+			[
+				"bnu",
+				"button_add_command"
+			],
+			[
+				"Ligh",
+				"LighOnCommand"
+			],
+			[
+				"solicit",
+				"solicitations"
+			],
+			[
+				"obser",
+				"observable"
+			],
+			[
+				"sma",
+				"smartphone_2"
+			],
+			[
+				"remo",
+				"remove_observer"
+			],
+			[
+				"observable",
+				"observable_name"
+			],
+			[
+				"IO",
+				"IObserver"
+			],
+			[
+				"di",
+				"discount"
+			],
+			[
+				"No",
+				"NoDiscount〔class〕"
+			],
+			[
+				"to",
+				"total_with_discount〔variable〕"
+			],
+			[
+				"fa",
+				"father_address"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"bruno",
+				"brunoconde07"
+			],
+			[
+				"available_vehicles_",
+				"available_vehicles_afiliated_02"
+			],
+			[
+				"Po",
+				"PopularCar"
+			],
+			[
+				"Vehi",
+				"VehicleFactory"
+			],
+			[
+				"se",
+				"search_client"
+			],
+			[
+				"Ve",
+				"VehicleFactory"
+			],
+			[
+				"Mo",
+				"PopularMotorcycle"
+			],
+			[
+				"Pop",
+				"PopularCar"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"Lux",
+				"LuxMotorcycle"
+			],
+			[
+				"L",
+				"LuxMotorcycle"
+			],
+			[
+				"Lu",
+				"LuxCar"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"Popular",
+				"PopularMotorcycle"
+			],
+			[
+				"com",
+				"comm"
+			],
+			[
+				"pip",
+				"pipe_1"
+			],
+			[
+				"print",
+				"printed"
+			],
+			[
+				"proce",
+				"process_with_default_name"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"consum",
+				"consumer"
+			],
+			[
+				"w",
+				"wait"
+			],
+			[
+				"prod",
+				"producer"
+			],
+			[
+				"is",
+				"is_alive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "bruno@linux:~/Documents/dev/learning-golang$ mkdir 02_tutorial                            \nbruno@linux:~/Documents/dev/learning-golang$ cd 02'02_tutorial/\n> q\n> ls\n> ^C\nbruno@linux:~/Documents/dev/learning-golang$ \nbruno@linux:~/Documents/dev/learning-golang$ cd 02_tutorial/                              \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial$       \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial$ mkdir 01_hello_world             \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial$ cd 01_hello_world/               \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ touch hello_world.​‌​\ngo  \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ subl hello_world.g​‌​\no                                            \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ nano setup        \n  GNU nano 4.8                              setup                                         \n                                                                                          \n                                                                                          \n    \n                                                                                          \n                                             \n                                                                                          \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                          \n                                                                                     \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ rm setup        \nrm: cannot remove 'setup': No such file or directory\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ rm setup\nrm: cannot remove 'setup': No such file or directory\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ ls\nhello_world.go\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ nano setup.sh     \n  GNU nano 4.8                             setup.sh                                       \ngo mod init example/hello\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                          \n                                                                                     \n                                                                                        \n                                                    \n                                                                                \n                                                    \n                                                                          \n                                                                                          \n                                                                                          \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ ls                \nhello_world.go  setup.sh\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ chmod +x setup.sh \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ ./setup.sh \n./setup.sh: line 1: go: command not found\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go                \ngold                  google-chrome         google-chrome-stable  gouldtoppm              \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go\ngold                  google-chrome         google-chrome-stable  gouldtoppm\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go \nhello_world.go  setup.sh        \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go version        \n\nCommand 'go' not found, but can be installed with:\n\nsudo snap install go         # version 1.17.4, or\nsudo apt  install golang-go  # version 2:1.13~1ubuntu2\nsudo apt  install gccgo-go   # version 2:1.13~1ubuntu2\n\nSee 'snap info go' for additional versions.\n\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ export PATH=$PATH:​‌​\n/usr/local/go/bin\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go\nGo is a tool for managing Go source code.\n\nUsage:\n\n        go <command> [arguments]\n\nThe commands are:\n\n        bug         start a bug report\n        build       compile packages and dependencies\n        clean       remove object files and cached files\n        doc         show documentation for package or symbol\n        env         print Go environment information\n        fix         update packages to use new APIs\n        fmt         gofmt (reformat) package sources\n        generate    generate Go files by processing source\n        get         add dependencies to current module and install them\n        install     compile and install packages and dependencies\n        list        list packages or modules\n        mod         module maintenance\n        run         compile and run Go program\n        test        test packages\n        tool        run specified go tool\n        version     print Go version\n        vet         report likely mistakes in packages\n\nUse \"go help <command>\" for more information about a command.\n\nAdditional help topics:\n\n        buildconstraint build constraints\n        buildmode       build modes\n        c               calling between Go and C\n        cache           build and test caching\n        environment     environment variables\n        filetype        file types\n        go.mod          the go.mod file\n        gopath          GOPATH environment variable\n        gopath-get      legacy GOPATH go get\n        goproxy         module proxy protocol\n        importpath      import path syntax\n        modules         modules, module versions, and more\n        module-get      module-aware go get\n        module-auth     module authentication using go.sum\n        packages        package lists and patterns\n        private         configuration for downloading non-public code\n        testflag        testing flags\n        testfunc        testing functions\n        vcs             controlling version control with GOVCS\n\nUse \"go help <topic>\" for more information about that topic.\n\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go version\ngo version go1.17.4 linux/amd64\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go mod init exampl​‌​\ne/hello\ngo: creating new go.mod: module example/hello\ngo: to add module requirements and sums:\n        go mod tidy\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ ls\ngo.mod  hello_world.go  setup.sh\nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ rm hello_world.go \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ ls                \ngo.mod  setup.sh                             \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ touch hello_world.​‌​\ngo                                                        \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ subl hello_world.g​‌​\no                                                         \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ go run .          \nHello, World!                                \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$                   \nbruno@linux:~/Documents/dev/learning-golang/02_tutorial/01_hello_world$ ",
+			"settings":
+			{
+				"buffer_size": 7630,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					684,
+					1,
+					"terminus_render",
+					null,
+					"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AAAAAADhIAAAAAAAAAAAAADhIAAAAAAAAOEgAAAAAAAAAAAAAOEgAAAAAAAA9CAAAAAAAAAAAAAA9CAAAAAAAAD1IAAAAAAAAAAAAAD1IAAAAAAAAPUgAAAAAAAAAAAAAPUgAAAAAAAAPyEAAAAAAAAAAAAAPyEAAAAAAABAIQAAAAAAAAAAAABAIQAAAAAAAEAhAAAAAAAAAAAAAEAhAAAAAAAAYCEAAAAAAAAAAAAAYCEAAAAAAABhIQAAAAAAAAAAAABhIQAAAAAAAGEhAAAAAAAAAAAAAGEhAAAAAAAAuyEAAAAAAAAAAAAAuyEAAAAAAAC8IQAAAAAAAAAAAAC8IQAAAAAAALwhAAAAAAAAAAAAALwhAAAAAAAABCIAAAAAAAAAAAAAuyEAAAAAAAC7IQAAAAAAAEkAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYCEAAAAAAABgIQAAAAAAAFsAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyEAAAAAAAA/IQAAAAAAACEAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICD0IAAAAAAAAPQgAAAAAAAASwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOAgAAAAAAAA4CAAAAAAAAAUAAAACiAgICAgICAgICAgICAgICAgICC3IAAAAAAAALcgAAAAAAAAKQAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgiSAAAAAAAACJIAAAAAAAAC4AAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAggSAAAAAAAACBIAAAAAAAAAgAAAAKICAgICAgICYgAAAAAAAAJiAAAAAAAABbAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAYgAAAAAAAABiAAAAAAAAAgAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCzHwAAAAAAALMfAAAAAAAAUwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsh8AAAAAAACyHwAAAAAAAAEAAAAKdR8AAAAAAAB1HwAAAAAAAD0AAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdB8AAAAAAAB0HwAAAAAAAAEAAAAKNR8AAAAAAAA1HwAAAAAAAD8AAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICALHwAAAAAAAAsfAAAAAAAAKgAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOUeAAAAAAAA5R4AAAAAAAAmAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCfHgAAAAAAAJ8eAAAAAAAARgAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWHgAAAAAAAFYeAAAAAAAASQAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAbHgAAAAAAABseAAAAAAAAOwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgwB0AAAAAAADAHQAAAAAAAFsAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAghR0AAAAAAACFHQAAAAAAADsAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICodAAAAAAAAKh0AAAAAAABbAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIPwcAAAAAAAA/BwAAAAAAAAuAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOocAAAAAAAA6hwAAAAAAAASAAAAICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAIRwAAAAAAAAhHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					686,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAKIcAAAAAAAA8hwAAAAAAABIAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWdvbGFuZy8wMl90dXRvcmlhbC8wMV9oZWxsb193b3JsZCQg8hwAAAAAAAD8HAAAAAAAAAAAAADyHAAAAAAAAPIcAAAAAAAACgAAACAgICAgICAgICA",
+					"AQAAAAAAAAABAAAA6hwAAAAAAADqHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					688,
+					2,
+					"terminus_render",
+					null,
+					"BwAAAPIcAAAAAAAA8xwAAAAAAAAAAAAA8xwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAACAdAAAAAAAAAAAAACAdAAAAAAAAIR0AAAAAAAAAAAAAIR0AAAAAAABoHQAAAAAAAAAAAABoHQAAAAAAAHsdAAAAAAAAAAAAAGkdAAAAAAAAaR0AAAAAAAASAAAAICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAA8hwAAAAAAADyHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					692,
+					1,
+					"terminus_render",
+					null,
+					"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AAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEIgAAAAAAAEQiAAAAAAAAWwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIgAAAAAAACMiAAAAAAAAIQAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgINghAAAAAAAA2CEAAAAAAABLAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgxCEAAAAAAADEIQAAAAAAABQAAAAKICAgICAgICAgICAgICAgICAgIJshAAAAAAAAmyEAAAAAAAApAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtIQAAAAAAAG0hAAAAAAAALgAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlIQAAAAAAAGUhAAAAAAAACAAAAAogICAgICAgCiEAAAAAAAAKIQAAAAAAAFsAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6iAAAAAAAADqIAAAAAAAACAAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJcgAAAAAAAAlyAAAAAAAABTAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCWIAAAAAAAAJYgAAAAAAAAAQAAAApZIAAAAAAAAFkgAAAAAAAAPQAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBYIAAAAAAAAFggAAAAAAAAAQAAAAoZIAAAAAAAABkgAAAAAAAAPwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIO8fAAAAAAAA7x8AAAAAAAAqAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgyR8AAAAAAADJHwAAAAAAACYAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIIMfAAAAAAAAgx8AAAAAAABGAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDofAAAAAAAAOh8AAAAAAABJAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP8eAAAAAAAA/x4AAAAAAAA7AAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCkHgAAAAAAAKQeAAAAAAAAWwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpHgAAAAAAAGkeAAAAAAAAOwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDh4AAAAAAAAOHgAAAAAAAFsAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4B0AAAAAAADgHQAAAAAAAC4AAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgzh0AAAAAAADOHQAAAAAAABIAAAAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAaR0AAAAAAABpHQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "02_tutorial/01_hello_world/hello_world.go",
+			"settings":
+			{
+				"buffer_size": 76,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAZXhwb3J0IFBBVEg9JFBBVEg6L3Vzci9sb2NhbC9nby9iaW4K",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n\npa"
+					},
+					"BAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAE4AAAAAAAAATgAAAAAAAAACAAAAcGFOAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " mai"
+					},
+					"BAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAFYAAAAAAAAAVgAAAAAAAAADAAAAbWFpVgAAAAAAAABaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n\nimport"
+					},
+					"CAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGIAAAAAAAAAYwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAGMAAAAAAAAAZQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert_dimensions",
+					null,
+					"AQAAAGQAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\n\nfu"
+					},
+					"BAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAP///////+9/"
+				],
+				[
+					22,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAGoAAAAAAAAAagAAAAAAAAACAAAAZnVqAAAAAAAAAG4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": " ma"
+					},
+					"AwAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgAAAAAAAABuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAG8AAAAAAAAAbwAAAAAAAAACAAAAbWFvAAAAAAAAAHMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHMAAAAAAAAAdQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAP///////+9/"
+				],
+				[
+					28,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAHYAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "fmt.P"
+					},
+					"BQAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "ro"
+					},
+					"AgAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIIAAAAAAAAAggAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "intl"
+					},
+					"BAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAIUAAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAggAAAAAAAACCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIcAAAAAAAAAiQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAIgAAAAAAAAAigAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "Hello,"
+					},
+					"BgAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": " World"
+					},
+					"BgAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "!"
+					},
+					"AQAAAJUAAAAAAAAAlgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"cut",
+					null,
+					"AQAAAE0AAAAAAAAATQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAP///////+9/"
+				],
+				[
+					52,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABNAAAAcGFja2FnZSBtYWluCgppbXBvcnQgImZtdCIKCmZ1bmMgbWFpbigpIHsKICAgIGZtdC5QcmludGxuKCJIZWxsbywgV29ybGQhIikKfQo",
+					"AQAAAAAAAAABAAAATQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "02_tutorial/01_hello_world/setup.sh",
+			"settings":
+			{
+				"buffer_size": 91,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "toucj"
+					},
+					"BQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEIAAAAAAAAAQgAAAAAAAAABAAAAag",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " go"
+					},
+					"AwAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEYAAAAAAAAARgAAAAAAAAABAAAALkUAAAAAAAAARQAAAAAAAAABAAAAb0QAAAAAAAAARAAAAAAAAAABAAAAZw",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "hello_worl"
+					},
+					"CgAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "d.go"
+					},
+					"BAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\ngo"
+					},
+					"AwAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " run."
+					},
+					"BQAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFkAAAAAAAAAWQAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " ."
+					},
+					"AgAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"learning-c terminal",
+					""
+				],
+				[
+					"learning-c terminal",
+					"gcc compile"
+				],
+				[
+					"learning-c terminal",
+					"run"
+				]
+			],
+			[
+				"learning-c terminal",
+				"run"
+			]
+		],
+		[
+			[
+				[
+					"learning-c terminal",
+					""
+				],
+				[
+					"learning-c terminal",
+					"gcc compile"
+				],
+				[
+					"learning-c terminal",
+					"run"
+				],
+				[
+					"learning-c terminal",
+					"format -> compile -> run (terminal)"
+				]
+			],
+			[
+				"learning-c terminal",
+				""
+			]
+		],
+		[
+			[
+				[
+					"learning-c terminal",
+					""
+				],
+				[
+					"learning-c terminal",
+					"gcc compile"
+				],
+				[
+					"learning-c terminal",
+					"run"
+				],
+				[
+					"learning-c terminal",
+					"format -> compile -> run (terminal)"
+				],
+				[
+					"learning-c terminal",
+					"(-lm) format -> compile -> run (terminal)"
+				]
+			],
+			[
+				"learning-c terminal",
+				"(-lm) format -> compile -> run (terminal)"
+			]
+		],
+		[
+			[
+				[
+					"learning-c: \"$file\" terminal",
+					""
+				],
+				[
+					"learning-c: \"$file\" terminal",
+					"Syntax Check"
+				]
+			],
+			[
+				"learning-c: \"$file\" terminal",
+				""
+			]
+		],
+		[
+			[
+				[
+					"pre-commit terminal",
+					""
+				],
+				[
+					"pre-commit terminal",
+					"Syntax Check"
+				]
+			],
+			[
+				"pre-commit terminal",
+				""
+			]
+		],
+		[
+			[
+				[
+					"pre-commit terminal",
+					""
+				],
+				[
+					"pre-commit terminal",
+					"Syntax Check"
+				],
+				[
+					"pre-commit terminal",
+					"python"
+				]
+			],
+			[
+				"pre-commit terminal",
+				"python"
+			]
+		],
+		[
+			[
+				[
+					"youtube terminal",
+					""
+				],
+				[
+					"youtube terminal",
+					"Syntax Check"
+				]
+			],
+			[
+				"youtube terminal",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"o file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"rt",
+				"Terminus: Rename Title"
+			],
+			[
+				"rf",
+				"Rename File"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"asty",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"File: S",
+				"File: Search Files"
+			],
+			[
+				"selec",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ins",
+				"VSCode: Open in Visual Studio Code"
+			],
+			[
+				"ui: se",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sel",
+				"UI: Select Color Scheme"
+			],
+			[
+				"select colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install co",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"terminus sett",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"anaoncda",
+				"Anaconda: Find object usage"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rmov",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"requi",
+				"Set Syntax: requirements.txt"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"magic",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"remo",
+				"Virtualenv: Remove"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"virtu",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"termi",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"8",
+			"python",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bruno/Documents/dev/learning-golang",
+		"/home/bruno/Documents/dev/learning-golang/02_tutorial",
+		"/home/bruno/Documents/dev/learning-golang/02_tutorial/01_hello_world"
+	],
+	"file_history":
+	[
+		"/home/bruno/Documents/dev/learning-golang/commands.sh",
+		"/home/bruno/Documents/dev/learning-golang/02_tutorial/01_hello_world/setup.sh",
+		"/home/bruno/Documents/dev/learning-golang/01_download_and_install/01_download_and_install.sh",
+		"/home/bruno/Documents/dev/learning-golang/02_tutorial/01_hello_world/hello_world.go",
+		"/home/bruno/Documents/dev/youtube-download/src/international_pop_rock.csv",
+		"/home/bruno/Documents/dev/youtube-download/src/bruno_mars.csv",
+		"/home/bruno/Documents/dev/youtube-download/src/pop_rock.csv",
+		"/home/bruno/Documents/dev/youtube-download/src/youtube_download.py",
+		"/home/bruno/Documents/dev/youtube-download/src/lista_videos.csv",
+		"/home/bruno/Documents/dev/youtube-download/youtube_download.py",
+		"/home/bruno/Documents/dev/youtube-download/src/alicia_keys.csv",
+		"/home/bruno/Documents/dev/youtube-download/src/main.py",
+		"/home/bruno/Documents/dev/youtube-download/main.py",
+		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/bruno/.config/sublime-text-3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/home/bruno/Documents/dev/youtube-download/test_youtube.py",
+		"/home/bruno/Documents/dev/youtube-download/test.py",
+		"/home/bruno/Documents/dev/youtube-download/lista_videos.csv",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/structural/adapter/adapter.py",
+		"/home/bruno/Documents/dev/youtube-download/src/videos",
+		"/home/bruno/Documents/dev/youtube-download/test2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/strategy/strategy_1.py",
+		"/home/bruno/Documents/dev/youtube-download/youtube-download.sublime-project",
+		"/home/bruno/Documents/dev/youtube-download/get_links.py",
+		"/home/bruno/Documents/dev/youtube-download/videos/Revelacão_360_graus/Ai meu Deus.mp4",
+		"/home/bruno/Documents/dev/youtube-download/README.md",
+		"/home/bruno/Documents/dev/youtube/lista_videos.csv",
+		"/home/bruno/Documents/dev/learning-git/git.sh",
+		"/home/bruno/Documents/dev/youtube/youtube.sublime-project",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/03_functions/02_prototype.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/11_math.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/12_logical_operators.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/03_math_functions/01_sqrt.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_flow_control/07_break.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_flow_control/08_continue.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/08_types.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_flow_control/05_switch.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_flow_control/06_do_while.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/learning-c.sublime-project",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_flow_control/04_for.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_flow_control/03_while.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/10_increment_decrement_operators.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/09_assignment_operators.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/04_1_casting_types.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_flow_control/01_if.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_control_structure/02_conditional_operator.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/05_aritmetic_operators.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/06_equality_operators.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/07_relational_operators.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/02_control_structure/01_if.c",
+		"/home/bruno/.config/sublime-text-3/Packages/Highlight Build Errors/HighlightBuildErrors.sublime-settings",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/03_arithmetic.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/04_auto_casting.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/02_input_user_and_math_operations.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/05_auto_casting.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/touch",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/01_hello_world.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/.gitignore",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/01_basics/02_input_user_sum_diff_prod_division.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/c-how-to-programming/01_basics/1_hello_world.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/c-how-to-programming/1_introduction/1_hello_world.c",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/c-how-to-programming/1_introduction/1_2_adding_two_integers.c",
+		"/home/bruno/.config/sublime-text-3/Packages/Clang Format/clang_format.sublime-settings",
+		"/home/bruno/.config/sublime-text-3/Packages/Clang Format/clang_format_custom.sublime-settings",
+		"/home/bruno/.config/sublime-text-3/Packages/User/clang_format_custom.sublime-settings",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/c-how-to-programming/1_introduction/_2_adding_two_integers.c",
+		"/home/bruno/Documents/dev/software-fundamentals/software-fundamental.sublime-project",
+		"/home/bruno/Documents/dev/software-fundamentals/learning-c/c-how-to-programming/1_introduction/1_1_first_program.c",
+		"/home/bruno/Documents/dev/software-fundamentals/algorithms/sort_and_search/sort_and_search",
+		"/home/bruno/Documents/dev/software-fundamentals/algorithms/.gitignore",
+		"/home/bruno/Documents/dev/software-fundamentals/venv-software-fundamentals/lib/python3.8/site-packages/mypy/dmypy/client.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/structural/bridge/bridge_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/software-fundamental.sublime-project",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/structural/proxy/proxy_1.py",
+		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/structural/facade/facade.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/structural/adapter.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/memento/memento.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/mediator/mediator.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/iterator/iterator.py",
+		"/home/bruno/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/bruno/Documents/dev/ecosim/ecosim.sublime-project",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/README.md",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/chain_of_resposibility/chain_of_responsibility_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/chain_of_resposibility/chain_of_responsibility_2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/test.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/chain_of_resposability/chain_of_responsability_2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/chain_of_resposability/chain_of_responsability_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/chain_of_resposability/*2",
+		"/home/bruno/Documents/dev/setup-linux/install_packages.sh",
+		"/home/bruno/.config/sublime-text-3/Packages/User/run_selection.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/state/state_2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/state/state_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/template/template_method_2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/template/template_method_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/template/*2#",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/command/command_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/observer/observer_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/behavioral/*.py",
+		"/home/bruno/Downloads/design-patterns-python-master/behavioral/command/command_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/git.sh",
+		"/home/bruno/Documents/install_packages.sh",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/prototype/prototype_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/builder/builder_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/monostate/monostate_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/prototype/README.md",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/monostate/monostate_2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/singleton/README.md",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/singleton/singleton_3.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/singleton/singleton_2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/singleton/singleton_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/monostate/*mono",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/factories/abstract-factory/abstract_factory.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/factories/factory-method/factory_method.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/factories/simple-factory/simple_factory_2.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/factories/simple-factory/simple_factory_1.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/git",
+		"/home/bruno/Documents/dev/software-fundamentals/requirements.txt",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/factory-method/factory_method.py",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/requirements.txt",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/simple-factory/simple_factory_1.py",
+		"/home/bruno/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/readme.md",
+		"/home/bruno/.config/sublime-text-3/Packages/Virtualenv/README.md",
+		"/home/bruno/.config/sublime-text-3/Packages/User/venv-software-fundamentals.sublime-build",
+		"/home/bruno/.config/sublime-text-3/Packages/User/Virtualenv.sublime-settings",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/abstract-factory/README.md",
+		"/home/bruno/Documents/dev/software-fundamentals/design-patterns/creational/simple-factory/simple_factory_2.py"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 223.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7630,
+								7630
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/bruno/Documents/dev/learning-golang/01_download_and_install",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"font_size": 14,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"line_padding_bottom": 0,
+							"line_padding_top": 0,
+							"rainbow_checked": true,
+							"result_base_dir": "/home/bruno/Documents/dev/learning-golang",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 4,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/home/bruno/Documents/dev/learning-golang",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 4008.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "02_tutorial/01_hello_world/hello_world.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"rainbow_checked": true,
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "02_tutorial/01_hello_world/setup.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								83
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"rainbow_checked": true,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 371.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 168.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 150.0
+	},
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "pre-commit terminal",
+	"project": "learning-go.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"do",
+				"01_download_and_install/01_download.sh"
+			],
+			[
+				"bru",
+				"youtube-download/src/bruno_mars.csv"
+			],
+			[
+				"pop",
+				"youtube-download/src/pop_rock.csv"
+			],
+			[
+				"test",
+				"youtube-download/test.py"
+			],
+			[
+				"yo",
+				"youtube_download.py"
+			],
+			[
+				"Client",
+				"venv-software-fundamentals/lib/python3.8/site-packages/mypy/dmypy/client.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/dev/software-fundamentals/design-patterns/software-fundamental.sublime-project"
+			],
+			[
+				"tdd",
+				"~/Documents/dev/learning-tdd/learning-tdd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 199.0,
+		"last_filter": "Client",
+		"selected_items":
+		[
+			[
+				"Client",
+				"Client"
+			]
+		],
+		"width": 580.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
