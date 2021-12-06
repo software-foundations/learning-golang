@@ -23,8 +23,9 @@
 			[
 				{
 					"name": "Go",
-					"shell_cmd": "/usr/local/go/bin/go run ${file}"
-					// "shell_cmd": "go run .",
+					// "shell_cmd": "/usr/local/go/bin/go run ${file}"
+					// "shell_cmd": "go run ."
+					"shell_cmd": "go run ${file}"
 				}
 			],
 
